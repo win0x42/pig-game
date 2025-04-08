@@ -32,9 +32,18 @@ open index.html
 
 ```
 pig-game/
-├── index.html        # Main game page
-├── style.css         # Game styling
-└── script.js         # Game logic
+├── /image  
+├── dice-1.png
+├── dice-2.png
+├── dice-3.png
+├── dice-4.png
+├── dice-5.png
+├── dice-6.png
+├── image.png
+├── index.html       
+├── style.css        
+├── script.js  
+└── README.md
 ```
 
 ## 🎮 Features
