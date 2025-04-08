@@ -25,7 +25,7 @@ To play the game locally:
 ```bash
 git clone https://github.com/your-username/pig-game.git
 cd pig-game
-open index.html   # Or simply double-click the file
+open index.html
 ```
 
 ## 📁 Project Structure
